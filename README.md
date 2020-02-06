@@ -1,6 +1,10 @@
 ### Environment
+```
 > Copy the .env.sample and create .env file
+```
+```
 > Update the .env according to your database config(like: database name and password)
+```
 
 ### Migrations
 
